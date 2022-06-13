@@ -5,7 +5,6 @@ import (
 	"net/http"
 
 	"github.com/XCross01/go-bookstore/pkg/routes"
-	"github.com/XCross01/pkg/routes"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )

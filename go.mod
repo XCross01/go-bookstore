@@ -1,4 +1,5 @@
-module github.com/XCross01
+module github.com/XCross01/go-bookstore
+
 
 go 1.17
 
